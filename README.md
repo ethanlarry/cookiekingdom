@@ -2,7 +2,7 @@
 
 # Description
 
-Cookie Kingdom is a gourmet cookie service where if you sign up through the web page, you can recieve a free sample of chocolate chip cookies. Through making this website I learned how to use the form element as well as the label, input, and button tags. In addition, I discovered how to manipulate the border-radius value to give me the desired look for the project. The thing that makes my website stand out is the in-your-face title. This gives a confident and bold feeling to the page.
+Cookie Kingdom is a gourmet cookie service where if you sign up through the web page, you can recieve a free sample of chocolate chip cookies. Through making this website I learned how to use the <form> element as well as the <label>, <input>, and <button> tags. In addition, I discovered how to manipulate the border-radius value to give me the desired look for the project. The thing that makes my website stand out is the in-your-face title. This gives a confident and bold feeling to the page.
 
 # Usage
 

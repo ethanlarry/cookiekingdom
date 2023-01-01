@@ -1,4 +1,4 @@
-# cookiekingdom
+# CookieKingdom
 
 # Description
 

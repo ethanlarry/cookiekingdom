@@ -6,7 +6,7 @@ Cookie Kingdom is a gourmet cookie service where if you sign up through the web 
 
 # Usage
 
-You can view the website with the link:
+You can view the website with the link provided below:<br>
 https://ethanlarry.github.io/cookiekingdom/ 
 
 # Features
